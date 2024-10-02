@@ -1,0 +1,15 @@
+<svg width="93" height="58" viewBox="0 0 93 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.394531" y="8.82812" width="83.3516" height="48.3594" rx="4" fill="#EAEAEA"/>
+<rect x="10.3945" y="1.82812" width="81.3516" height="46.3594" rx="3" fill="white" stroke="#6B6B6B" stroke-width="2"/>
+<rect x="30.5625" y="2" width="20.0312" height="10.3203" fill="#27A768"/>
+<rect x="50.5938" y="2" width="20.0312" height="10.3203" fill="#F5BB19"/>
+<rect x="70.543" y="2" width="20.5117" height="10.3203" fill="#ED3149"/>
+<line x1="50.5742" y1="48.7266" x2="50.5742" y2="2.34375" stroke="#808080"/>
+<line x1="30.5811" y1="48.7266" x2="30.5811" y2="2.89844" stroke="#808080"/>
+<line x1="70.5664" y1="48.7266" x2="70.5664" y2="2" stroke="#808080"/>
+<line x1="10.6094" y1="11.8203" x2="90.5742" y2="11.8203" stroke="#808080"/>
+<line x1="10.6094" y1="20.5234" x2="91.8203" y2="20.5234" stroke="#808080"/>
+<line x1="11.0898" y1="29.2266" x2="91.0547" y2="29.2266" stroke="#808080"/>
+<line x1="11.0898" y1="37.9258" x2="91.0547" y2="37.9258" stroke="#808080"/>
+<rect x="10.3945" y="1.82812" width="81.3516" height="46.3594" rx="3" stroke="#6B6B6B" stroke-width="2"/>
+</svg>
