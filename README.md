@@ -6,7 +6,7 @@ The purpose of this project is to give you a real sense of the type of work youâ
 
 ### Requirements
 
-Limit yourself to 2 hours, do as much as you can. As a early stage startup we often thrive for velocity instead of perfection.
+Limit yourself to 2 hours, do as much as you can. It's ok if you don't finish everything. As a early stage startup we often value velocity more than perfection.
 
 ### Steps
 
