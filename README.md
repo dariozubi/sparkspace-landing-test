@@ -1,50 +1,23 @@
-# React + TypeScript + Vite
+# Spark Space Sample Project - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Purpose
 
-Currently, two official plugins are available:
+The purpose of this project is to give you a real sense of the type of work you’d be doing and will give us a sense of your coding ability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Requirements
 
-## Expanding the ESLint configuration
+Limit yourself to 2 hours, do as much as you can. As a early stage startup we often thrive for velocity instead of perfection.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Steps
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+1. Fork this repo
+2. You will see 4 cards on the front page with the following content:
+   - AI Feedback
+   - AI Detection
+   - Import Essays
+   - Use Your Rubric
+3. For the first 2 cards, make the following animation:
+   - AI Feedback: Make the text on the right appear with a ChatGPT-like typewriter animation
+   - AI Detection: Make the gauge grow from 0% to 37%
+4. For the last 2 cards, design and implement a compelling animation for each of the value props, in order to increase the click rate of the CTA button.
+5. Record a loom video explaining your implementation and design. Send it to david@sparkspace.ai
