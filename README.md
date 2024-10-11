@@ -21,5 +21,6 @@ Limit yourself to 2 hours, do as much as you can. It's ok if you don't finish ev
    - AI Detection: Make the gauge grow from 0% to 37%
 4. For the last 2 cards, design and implement a compelling animation for each of the value props, in order to increase the click rate of the CTA button.
 5. Record a loom video explaining your implementation and design. Send it to david@sparkspace.ai
-
+6. Please send us a link to your code too:)
+   
 Thank you for your time! 🙏
