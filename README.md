@@ -18,7 +18,7 @@ Limit yourself to 2 hours, do as much as you can. It's ok if you don't finish ev
    - Use Your Rubric
 3. For the first 2 cards, make the following animations:
    - AI Feedback: Make the text on the right appear with a ChatGPT-like typewriter animation
-   - AI Detection: Make the gauge grow from 0% to 37%
+   - AI Detection: Make the gauge grow from 0% to 40%
 4. For the last 2 cards, design and implement a compelling animation for each of the value props, in order to increase the click rate of the CTA button.
 5. Record a loom video explaining your implementation and design. Send it to david@sparkspace.ai
 6. Please send us a link to your code too:)
